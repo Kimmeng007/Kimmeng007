@@ -8,7 +8,7 @@ Data Scientist and AI Engineer focused on machine learning, computer vision, and
 
 ## What I work on
 
-- **Computer vision** — drone-based AI decision-support for flood rescue (YOLOv26 person/obstacle detection on synthetic multi-modal flood data), active speaker detection (CNN–LSTM over face-sequence features)
+- **Computer vision** : drone-based AI decision-support for flood rescue (YOLOv26 person/obstacle detection on synthetic multi-modal flood data), active speaker detection (CNN–LSTM over face-sequence features)
 - **Classical ML** : Kaggle House Price Prediction (top 1% of 6,980 teams), malware detection via control-flow graphs
 - **Statistics & time series** : change-point detection on SNCF TER rail data, survival analysis for breast cancer
 - **Generative models** : semi-supervised learning on MNIST with GANs
