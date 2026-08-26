@@ -1,6 +1,6 @@
 # Hi, I'm Kimmeng Hong
 
-Data Scientist and AI Engineer focused on machine learning, computer vision, and deep learning. I'm pursuing an MSc in Data Science (expected Oct 2026) at **Université Paris-Saclay** (Health, Insurance and Finance track) and **ENSIIE** in France, building detection and decision-support models for real-world sensing problems, from flood-rescue drones to malware and medical survival analysis.
+Data Scientist and AI Engineer focused on machine learning, computer vision, and deep learning. I'm pursuing an MSc in Data Science (expected Nov 2026) at **Université Paris-Saclay** (Health, Insurance and Finance track) and **ENSIIE** in France, building detection and decision-support models for real-world sensing problems, from flood-rescue drones to malware and medical survival analysis.
 
 - 🎓 Engineering Degree in Data Science, Institut de Technologie du Cambodge
 - 🇫🇷 [Sophie Germain Scholarship laureate](https://fondation-hadamard.fr/en/articles/2024/03/28/laureates-of-the-sophie-germain-and-phd-track-scholarships-2024/), Fondation Mathématique Jacques Hadamard (2024)
