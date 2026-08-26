@@ -15,9 +15,9 @@ Data Scientist and AI Engineer focused on machine learning, computer vision, and
 
 ## Skills
 
-**Languages:** Python · R · C++ · SQL · Git
-**ML/DL:** PyTorch · TensorFlow · Scikit-learn · OpenCV · Transformers · NLP
-**Data:** Pandas · NumPy · Power BI · Matplotlib · Seaborn
+- **Languages:** Python · R · C++ · SQL · Git
+- **ML/DL:** PyTorch · TensorFlow · Scikit-learn · OpenCV · Transformers · NLP
+- **Data:** Pandas · NumPy · Power BI · Matplotlib · Seaborn
 
 ## Get in touch
 
