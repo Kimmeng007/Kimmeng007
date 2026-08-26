@@ -8,10 +8,10 @@ Data Scientist and AI Engineer focused on machine learning, computer vision, and
 
 ## What I work on
 
-- **Computer vision** — active speaker detection (CNN–LSTM over face-sequence features), object detection with YOLOv8
-- **Classical ML** — Kaggle House Price Prediction (top 1% of 6,980 teams), malware detection via control-flow graphs
-- **Statistics & time series** — change-point detection on SNCF TER rail data, survival analysis for breast cancer
-- **Generative models** — semi-supervised learning on MNIST with GANs
+- **Computer vision** : active speaker detection (CNN–LSTM over face-sequence features), object detection with YOLOv8
+- **Classical ML** : Kaggle House Price Prediction (top 1% of 6,980 teams), malware detection via control-flow graphs
+- **Statistics & time series** : change-point detection on SNCF TER rail data, survival analysis for breast cancer
+- **Generative models** : semi-supervised learning on MNIST with GANs
 
 ## Skills
 
