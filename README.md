@@ -1,11 +1,12 @@
 # Hi, I'm Kimmeng Hong
 
-Data Scientist and AI Engineer focused on machine learning, computer vision, and deep learning. I'm pursuing an MSc in Data Science (expected Nov 2026) at **Université Paris-Saclay** (Health, Insurance and Finance track) and **ENSIIE** in France, building detection and decision-support models for real-world sensing problems, from flood-rescue drones to malware and medical survival analysis.
+Data Scientist and AI Engineer focused on machine learning, computer vision, and deep learning, building detection and decision-support models for real-world sensing problems, from flood-rescue drones to malware and medical survival analysis.
 
-- 🎓 Engineering Degree in Data Science, Institut de Technologie du Cambodge
+- 🎓 MSc Data Science: Health, Insurance and Finance, Université Paris-Saclay (expected Nov 2026)
+- 🎓 Double Engineering Degree in Data Science & Applied Mathematics, Institut de Technologie du Cambodge & ENSIIE
 - 🇫🇷 [Sophie Germain Scholarship laureate](https://fondation-hadamard.fr/en/articles/2024/03/28/laureates-of-the-sophie-germain-and-phd-track-scholarships-2024/), Fondation Mathématique Jacques Hadamard (2024)
 - 🌐 Portfolio: [kimmeng007.github.io](https://kimmeng007.github.io/)
-
+  
 ## What I work on
 
 - **Computer vision** : drone-based AI decision-support for flood rescue (YOLOv26 person/obstacle detection on synthetic multi-modal flood data), active speaker detection (CNN–LSTM over face-sequence features)
